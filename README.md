@@ -1,4 +1,4 @@
-<p align="center"> <img width=20px src="https://github.com/rafaelorvalle/AluraMidi/blob/main/aluramidi/images/bateria.png"> </p>
+<p align="center"> <img width=100px src="https://github.com/rafaelorvalle/AluraMidi/blob/main/aluramidi/images/bateria.png"> </p>
 <p align="center">Teclado de sons de bateria.</p>
 
 ## Tecnologias utilizadas no projeto
